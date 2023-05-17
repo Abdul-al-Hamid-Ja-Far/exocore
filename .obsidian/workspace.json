@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9a6d7b65dfe24a65",
+        "id": "a87e4d260aa899b3",
         "type": "tabs",
         "children": [
           {
-            "id": "68bdb0177a6320a6",
+            "id": "7d1af3f96630e2d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3aa1ea3782e80e19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_daily/2023-05-17.md",
-                "mode": "source",
-                "source": true
+                "file": "images/korean-chicken-soup.jpg"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2023-05-17.md",
+                "file": "images/korean-chicken-soup.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2023-05-17.md",
+                "file": "images/korean-chicken-soup.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2023-05-17.md"
+                "file": "images/korean-chicken-soup.jpg"
               }
             }
           },
@@ -175,8 +164,23 @@
   },
   "active": "e509f202f4abd033",
   "lastOpenFiles": [
-    "assets/imgs/pfp.png",
-    "assets/imgs/Screen Shot 2023-05-17 at 3.31.04 PM.png",
+    "assets/imgs/pfp2.png",
+    "Untitled",
+    "Untitled.md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "images/korean-chicken-soup.jpg",
+    "images/red-writing2.png",
+    "images/mouse.jpg",
+    "images/study-monk.jpg",
+    "images/urbit-sigils.png",
+    "images/Screen Shot 2022-03-03 at 8.04.47 am.png",
+    "images/Screen Shot 2022-02-10 at 3.13.34 pm.png",
+    "images/IMG_4190.JPG",
+    "images/IMG_4172.JPG",
+    "images/IMG_4106.JPG",
+    "_journal/chinese-ginseng-chicken-tonic-soup.md",
     "_daily/2023-05-17.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
@@ -184,7 +188,6 @@
     "_daily/2022-10-25.md",
     "_articles/Exocore Installation Instructions.md",
     "_articles/Writing with Exocore Syntax.md",
-    "assets/imgs/bg-yotsuba.gif",
     "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-10-23.md",
     "_daily/2022-05-11.md"
